@@ -7,13 +7,7 @@
     display: flex;
     flex-flow: row;
     justify-content: center;
-    align-items: center ;    
-}
-
-
-
-.container div{
-    padding: 30px;
+    align-items: center ;  
 }
 
 .montanha{
@@ -70,11 +64,13 @@ body{
 
 .contato textarea.assunto{
     background-color:rgb(226, 223, 214);
+    width: 100%;
 }
 
 .contato input.campo{
     background-color:rgb(226, 223, 214);
     border-width: 1px;
+    
 }
 .container-contato{
     display: flex;
